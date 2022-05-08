@@ -1,0 +1,29 @@
+/************************tag selector*********************/
+body{
+  background-color: #879ca3;
+}
+h1{
+  color: #9a671b;
+
+}
+
+
+img{
+  background-color: #4d0307;
+}
+
+
+
+/*********************************class selector************************************/
+
+.bacon{
+  background-color: red;
+}
+.brocoli{
+  background-color:green;
+}
+
+/********************************* id selector************************************/
+#heading {
+  color: #5c111d;
+}
