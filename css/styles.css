@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Lora', serif;
+}
+
+hr {
+  size: 1000px;
+  width: 20%;
+  border-bottom: none;
+  border-top: dotted;
+  border-top-width: 15px;
+  margin: 90px auto;
+}
+
+h1 {
+  margin: 50px auto 0px auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+
+.top-container {
+  background-color: #E8F1F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+}
+
+.bottom-container {}
+
+.top-cloud {
+  position: absolute;
+  right: 450px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 450px;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+
+  line-height: 2;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-size: 1.7rem;
+}
+
+a {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.8;
+}
+
+.pizza-image {
+  float: left;
+  width: 25%;
+}
+
+.tech-image {
+  width: 30%;
+  float: right;
+}
+.clearfix {
+ overflow: auto;}
+p{
+  font-size: 1.2rem;
+}
